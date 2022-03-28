@@ -1,0 +1,11 @@
+{
+  "countries": [
+    "US",
+    "Israel",
+    "Ukraine",
+    "AU",
+    "Europe",
+    "Canada"
+  ],
+  "pollerInterval": 5000
+}
